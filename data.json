@@ -25,5 +25,194 @@
       "signedBy": "insipx",
       "source": null
     }
+  },
+  "efinity": {
+    "title": "Efinity",
+    "color": "#496ddb",
+    "rpcEndpoint": "wss://rpc.efinity.io",
+    "genesisHash": "0x335369975fced3fc22e23498da306a712f4fd964c957364d53c49cea9db8bc2f",
+    "unit": "EFI",
+    "base58prefix": 1110,
+    "logo": "efinity",
+    "decimals": 18,
+    "metadataVersion": 3000,
+    "metadataQr": {
+      "path": "qr/efinity_metadata_3000.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0x43bdba90887f4cca32ad4e2dcc6e2125fcdbcacfe722757712d9d72832756304"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/efinity_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/efinity_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
+  },
+  "astar": {
+    "title": "Astar",
+    "color": "#1b6dc1",
+    "rpcEndpoint": "wss://rpc.astar.network",
+    "genesisHash": "0x9eb76c5184c4ab8679d2d5d819fdf90b9c001403e9e17da2e14b6d8aec4029c6",
+    "unit": "ASTR",
+    "base58prefix": 5,
+    "logo": "astar",
+    "decimals": 18,
+    "metadataVersion": 43,
+    "metadataQr": {
+      "path": "qr/astar_metadata_43.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0x246b1cc8767cb64dd9f7155e4a23253c47c80069aad9cbfaf62b50ee503f7159"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/astar_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/astar_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
+  },
+  "karura": {
+    "title": "Karura",
+    "color": "#ff4c3b",
+    "rpcEndpoint": "wss://karura-rpc.dwellir.com",
+    "genesisHash": "0xbaf5aabe40646d11f0ee8abbdc64f4a4b7674925cba08e4a05ff9ebed6e2126b",
+    "unit": "UNIT",
+    "base58prefix": 8,
+    "logo": "karura",
+    "decimals": 0,
+    "metadataVersion": 2100,
+    "metadataQr": {
+      "path": "qr/karura_metadata_2100.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0xe052bb4b68ca89d4227eab1b490d99b2a466032e6699ef1242cabcbe36afd88b"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/karura_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/karura_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
+  },
+  "shiden": {
+    "title": "Shiden",
+    "color": "#5923B2",
+    "rpcEndpoint": "wss://rpc.shiden.astar.network",
+    "genesisHash": "0xf1cf9022c7ebb34b162d5b5e34e705a5a740b2d0ecc1009fb89023e62a488108",
+    "unit": "SDN",
+    "base58prefix": 5,
+    "logo": "shiden",
+    "decimals": 18,
+    "metadataVersion": 79,
+    "metadataQr": {
+      "path": "qr/shiden_metadata_79.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0x955235a72d1ce81b3b95c789afa2cba353bec72ef10133fdaddd3cab88e8203f"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/shiden_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/shiden_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
+  },
+  "basilisk": {
+    "title": "Basilisk",
+    "color": "#9eec1b",
+    "rpcEndpoint": "wss://rpc.basilisk.cloud",
+    "genesisHash": "0xa85cfb9b9fd4d622a5b28289a02347af987d8f73fa3108450e2b4a11c1ce5755",
+    "unit": "BSX",
+    "base58prefix": 10041,
+    "logo": "basilisk",
+    "decimals": 12,
+    "metadataVersion": 82,
+    "metadataQr": {
+      "path": "qr/basilisk_metadata_82.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0x7d6664d57389c6afbe310c2aa84c0ac9ef9556a0744d80f185e4655c8ee3cb19"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/basilisk_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/basilisk_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
+  },
+  "heiko": {
+    "title": "Parallel Heiko",
+    "color": "#42d5de",
+    "rpcEndpoint": "wss://heiko-rpc.parallel.fi",
+    "genesisHash": "0x64a1c658a48b2e70a7fb1ad4c39eea35022568c20fc44a6e2e3d0a57aee6053b",
+    "unit": "HKO",
+    "base58prefix": 110,
+    "logo": "heiko",
+    "decimals": 12,
+    "metadataVersion": 193,
+    "metadataQr": {
+      "path": "qr/heiko_metadata_193.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0x12b1c41844376f25d34003b07639e9f11aa014b87531af2ef3deb6a97da9231e"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/heiko_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/heiko_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
+  },
+  "statemint": {
+    "title": "Statemint",
+    "color": "#86e62a",
+    "rpcEndpoint": "wss://statemint-rpc.polkadot.io",
+    "genesisHash": "0x68d56f15f85d3136970ec16946040bc1752654e906147f7e43e9d539d7c3de2f",
+    "unit": "DOT",
+    "base58prefix": 0,
+    "logo": "statemint",
+    "decimals": 10,
+    "metadataVersion": 9290,
+    "metadataQr": {
+      "path": "qr/statemint_metadata_9290.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0x2fb81beb31f44776b85dbd32def7a592b44022fd78d7d8d89fae7fab331243bc"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/statemint_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/statemint_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
   }
 }
