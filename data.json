@@ -1,0 +1,29 @@
+{
+  "parallel": {
+    "title": "parallel",
+    "color": "#000000",
+    "rpcEndpoint": "wss://rpc.parallel.fi",
+    "genesisHash": "0xe61a41c53f5dcd0beb09df93b34402aada44cb05117b71059cce40a2723a4e97",
+    "unit": "PARA",
+    "base58prefix": 172,
+    "logo": "parallel",
+    "decimals": 12,
+    "metadataVersion": 193,
+    "metadataQr": {
+      "path": "qr/parallel_metadata_193.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0x04f14e82b22d8cb5742274b4d78992a0d246f64ec623ca6934c85c2e1666ce1f"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/parallel_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/parallel_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
+  }
+}
