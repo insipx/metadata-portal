@@ -214,5 +214,32 @@
       "signedBy": "insipx",
       "source": null
     }
+  },
+  "picasso": {
+    "title": "Picasso",
+    "color": "#000000",
+    "rpcEndpoint": "wss://picasso-rpc.composable.finance",
+    "genesisHash": "0x6811a339673c9daa897944dcdac99c6e2939cc88245ed21951a0a3c9a2be75bc",
+    "unit": "PICA",
+    "base58prefix": 49,
+    "logo": "picasso",
+    "decimals": 12,
+    "metadataVersion": 10002,
+    "metadataQr": {
+      "path": "qr/picasso_metadata_10002.apng",
+      "signedBy": "insipx",
+      "source": {
+        "type": "Rpc",
+        "block": "0xa21c17e8c623e5d13b16b5b5561b0b9a1ca23e121c12c789130ceaea06d71d6a"
+      }
+    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
+    "latestMetadata": "qr/picasso_metadata_latest.apng",
+    "specsQr": {
+      "path": "qr/picasso_specs.png",
+      "signedBy": "insipx",
+      "source": null
+    }
   }
 }
